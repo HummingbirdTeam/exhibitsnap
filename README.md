@@ -6,6 +6,7 @@ Recommended Chrome Web Store URLs after GitHub Pages is enabled:
 
 - Homepage: `https://hummingbirdteam.github.io/finalsnap/`
 - Brand search landing page: `https://hummingbirdteam.github.io/finalsnap/chrome-extension.html`
+- Account entry: `https://hummingbirdteam.github.io/finalsnap/account.html`
 - Support: `https://hummingbirdteam.github.io/finalsnap/support.html`
 - Privacy policy: `https://hummingbirdteam.github.io/finalsnap/privacy.html`
 - Chrome Web Store item: `https://chromewebstore.google.com/detail/fbplgmgpdnogfbifbcmcadhfnnbcifcd`
