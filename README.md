@@ -15,6 +15,13 @@ Recommended Chrome Web Store URLs after GitHub Pages is enabled:
 Chrome Web Store "Official URL" can remain `None` until the site is verified in Google Search Console.
 The Homepage URL and Support URL can use the GitHub Pages URLs above immediately.
 
+Mainland China sharing note:
+
+- Do not send Chinese users only the raw Chrome Web Store URL. Chrome Web Store can be unavailable in mainland China even when the item URL itself is valid.
+- Share the brand landing page first: `https://hummingbirdteam.github.io/finalsnap/chrome-extension.html`.
+- Keep Chrome Web Store as the official primary install source, but the landing page should show a clear support fallback for users whose region cannot open the store.
+- Do not publicly promise an alternate store, mirror, CRX, or zip install path until that path is actually prepared, tested, and supportable.
+
 Brand-search SEO notes:
 
 - The homepage, brand search landing page, support page, and privacy page should repeat `FinalSnap` consistently.
@@ -29,6 +36,8 @@ Homepage hero animation:
 
 These are generated from `tools/render-finalsnap-magic-cut-promo-v7.py` and should stay aligned with the current short promo-video baseline in `marketing/promo-v7/`.
 The homepage uses the no-logo variant because the site navigation already carries the FinalSnap brand mark; avoid double logo exposure in the first viewport.
+The current hero animation mirrors the in-product Cut Middle effect: same-source band removal plus the real `.bandCutEffect` film-strip pull, closing lines, flash, and `Strip removed` badge.
+Headline typography in generated promo assets should use the selected pixel-cut reference look: the high-contrast New York-style display serif from the `Remove the messy middle.` headline. Do not switch these promo/store hero assets to `Sora` / `Archivo` unless a future sans-serif variant is explicitly requested.
 
 Standalone promo-video baseline:
 
